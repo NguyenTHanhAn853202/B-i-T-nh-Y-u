@@ -1,0 +1,15 @@
+.person{
+    margin:auto;
+}
+
+.describer{
+    text-align: center;
+    width: 60%;
+    margin:auto;
+    margin-bottom: 50px;
+}
+
+.final{
+    color: #f06eaa;
+    text-align: center;
+}

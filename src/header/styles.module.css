@@ -1,0 +1,18 @@
+.header{
+    margin-right:50px ;
+    justify-content: center;
+}
+
+.headerTitle{
+    margin: 0 10px;
+    text-align: center;
+    height:80px;
+    line-height: 80px;
+    color:white;
+    word-spacing: 3px;
+    cursor: pointer;
+}
+.headerTitle:hover{
+    opacity: 0.5;
+
+}

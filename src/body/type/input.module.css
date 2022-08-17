@@ -1,0 +1,12 @@
+
+.ip{
+    outline:1px solid #f06eaa;
+    width: 300px;
+    height:40px;
+    font-size: 20px;
+    color: #f06eaa;
+    margin: 10px;
+}
+.ip:hover{
+    
+}

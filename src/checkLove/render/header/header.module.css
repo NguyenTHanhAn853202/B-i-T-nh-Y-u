@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    color:#f06eaa;
+    word-spacing: 5px;
+}
+
+.heart{
+    display: block;
+    margin:auto;
+}
+
+.describer{
+    text-align: center;
+    font-weight:100;
+    font-size: 18px;
+}
